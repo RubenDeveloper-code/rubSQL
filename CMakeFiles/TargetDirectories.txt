@@ -1,0 +1,3 @@
+/home/ruben/Programacion/estudio/c++/rubSQL/CMakeFiles/rubSQL.dir
+/home/ruben/Programacion/estudio/c++/rubSQL/CMakeFiles/edit_cache.dir
+/home/ruben/Programacion/estudio/c++/rubSQL/CMakeFiles/rebuild_cache.dir

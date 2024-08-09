@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+d1c0999fa173ac5837beac854ca1c0ea /home/ruben/Programacion/estudio/c++/rubSQL/src/interpreter/parser/parser.c
+1e2e893cb22aa95a78eec5f17eb789a5 /home/ruben/Programacion/estudio/c++/rubSQL/src/interpreter/scanner/lexer.c
